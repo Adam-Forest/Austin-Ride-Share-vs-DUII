@@ -13,6 +13,8 @@ Trends in Alcohol Related Crimes and Their Relationship with Ride-Sharing Usage
 8. Are people being dropped off in residential areas?
 9. Team Members: Allison Bolger, Arunima Menon, Adam Newlyn, Jay Schwan
 
-Data Sets to be Used:Uber/Lyft API, Google Maps API, crime statistics csv/APIProject
+### Data Sets to be Used:
+Uber/Lyft API, Google Maps API, crime statistics csv/APIProject
 
-Description:Using data from ride sharing application, google maps, and crime data from XXX, we will attempt to reveal any correlations between DUI numbers and ride share data.
+### Description:
+Using data from ride sharing application, google maps, and crime data from XXX, we will attempt to reveal any correlations between DUI numbers and ride share data.
