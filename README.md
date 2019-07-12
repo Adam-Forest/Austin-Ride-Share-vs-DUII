@@ -1,7 +1,7 @@
 # Austin-Ride-Share-vs-DUII
-Trends in Alcohol Related Crimes and Their Relationship with Ride-Sharing Usage
+## Trends in Alcohol Related Crimes and Their Relationship with Ride-Sharing Usage
 
-## Questions to Answer
+### Questions to Answer
 
 1. Do higher ride share numbers lead to lower DUI instances?
 2. What cities see the most ride share usage and have the lowest amount of DUIs?
